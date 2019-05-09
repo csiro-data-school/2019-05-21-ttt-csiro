@@ -13,7 +13,7 @@ startdate: 2019-05-21      # machine-readable start date for the workshop in YYY
 enddate: 2019-05-22       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kerensa McElroy, Benjamin Schwessinger"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 contact: ["kerensa.mcelroy@csiro", "Benjamin.Schwessinger@anu.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: "https://pad.carpentries.org/csiro-instructor_2019-05-21"            # optional: URL for the workshop Etherpad if there is one
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
